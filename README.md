@@ -1,6 +1,6 @@
 # PS5 Store 
 
-A new Flutter project.
+A Playstation 5 Store built in Flutter. 
 
 Below are pictures of the PS5 Store;
 
